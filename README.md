@@ -1,6 +1,7 @@
 ### Hola 👋 I'm Prithiviraj Mohan
 
 🌱 I’m currently learning Node.js , React and Python
+
 📫 How to reach me:[LinkedIn -@PrithivirajMohan](https://www.linkedin.com/in/prithiviraj-mohan-38348115b/)
 <!--
 **PrithivirajMohan/PrithivirajMohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
