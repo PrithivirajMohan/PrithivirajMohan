@@ -1,4 +1,7 @@
-### Hola 👋 I'm Prithiviraj Mohan
+### Hola 👋 I'm Prithiviraj Mohan 
+<a href="https://dev.to/prithivirajmohan">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="PrithivirajMohan's DEV Profile" height="30" width="30">
+</a>
 
 🌱 I’m currently learning Node.js , React and Python
 
